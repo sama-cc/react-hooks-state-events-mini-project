@@ -1,4 +1,14 @@
-export const CATEGORIES = ["All", "Code", "Food", "Money", "Misc"];
+export const CATEGORIES = [
+  {category: "All",
+  class: ""}, 
+  {category: "Code",
+  class: ""}, 
+  {category: "Food",
+  class: ""},
+  {category: "Money",
+  class: ""}, 
+  {category: "Misc",
+  class: ""}];
 
 export const TASKS = [
   {
